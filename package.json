@@ -1,0 +1,25 @@
+{
+  "name": "myreact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.jsx",
+  "scripts": {
+    "start": "./node_modules/.bin/babel-node main.jsx"
+  },
+  "babel": {
+    "presets": [
+      "es2016",
+      "react"
+    ]
+  },
+  "author": "sakura sugo",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.7.7",
+    "babel-preset-es2016": "^6.0.11",
+    "babel-preset-react": "^6.5.0",
+    "jade": "^1.11.0",
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1"
+  }
+}
