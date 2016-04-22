@@ -2,7 +2,7 @@
   "name": "myreact",
   "version": "1.0.0",
   "description": "",
-  "main": "index.jsx",
+  "main": "main.jsx",
   "scripts": {
     "start": "./node_modules/.bin/babel-node main.jsx"
   },
